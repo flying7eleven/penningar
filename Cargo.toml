@@ -1,0 +1,12 @@
+[package]
+name = "penningar"
+version = "0.0.1"
+edition = "2021"
+authors = ["Tim Janke <tim+github@janke.biz>"]
+description = "TODO"
+license = "MIT"
+readme = "README.md"
+rust-version = "1.80.0"
+publish = false
+repository = "https://github.com/flying7eleven/penningar"
+exclude = [".github/", ".gitignore"]
