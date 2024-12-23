@@ -1,8 +1,13 @@
-# Penningar (Swedish for _money_)
+# Penningar
 [![MIT License](http://img.shields.io/badge/license-MIT-9370d8.svg?style=flat)](http://opensource.org/licenses/MIT)
 
-Not sure what this tool will finally be or if I will finish it but currently my plan is to do something like YNAB but in OSS.
-But more as a fun project than as a serious one.
+Penningar (_Swedish for "money"_) is a Rust-based tool designed to help you import and analyze your bank account statements locally.
+By leveraging the official APIs of supported banks, Penningar ensures secure and accurate data handling while staying within the bounds of modern Rust practices.
+
+This project draws inspiration from tools like YNAB but is more of a learning exercise and fun side project rather than a fully polished, production-grade solution.
+Penningar is a step towards creating an open-source alternative for personal financial management, with privacy and local control at its core.
+
+Whether you're looking to track your spending, visualize your cash flow, or just experiment with financial data analysis, Penningar is here to help — albeit with no guarantees of completeness or stability as development progresses.
 
 > [!CAUTION]
 > **USE AT YOUR OWN RISK**: This project is just a simple toy-project of mine.
