@@ -16,6 +16,11 @@ version = "0.4.39"
 default-features = false
 features = ["clock"]
 
+[dependencies.clap]
+version = "4.5.23"
+default-features = false
+features = ["std", "derive", "usage", "help"]
+
 [dependencies.dotenv]
 version = "0.15.0"
 default-features = false
@@ -32,6 +37,10 @@ default-features = false
 version = "0.12.9"
 default-features = false
 features = ["blocking", "native-tls", "json"]
+
+[dependencies.rpassword]
+version = "7.3.1"
+default-features = false
 
 [dependencies.serde]
 version = "1.0.216"
